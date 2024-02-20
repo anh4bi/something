@@ -14,5 +14,5 @@ Abc87486218421
 
 Tempmail: 
 ```
-https://inboxes.com
+https://tmail.mmomekong.com/mailbox
 ```
